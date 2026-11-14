@@ -1,0 +1,198 @@
+{
+  "dataset": "Ember Coping Strategies",
+  "version": "1.0",
+  "description": "Structured, general psychoeducation for the AI Companion for Emotional Wellness. Not clinical guidance.",
+  "entries": [
+    {
+      "id": "panic-attack-steps",
+      "title": "Getting Through a Panic Attack",
+      "topic": "anxiety",
+      "emotions": ["anxiety", "fear"],
+      "duration_minutes": 10,
+      "summary": "A panic attack is a sudden surge of intense fear with physical symptoms like a pounding heart, shortness of breath, dizziness or tingling. It feels frightening but is not dangerous and usually peaks within about 10 minutes.",
+      "steps": [
+        "Name it: tell yourself, 'This is a panic attack. It will pass. I am not in danger.'",
+        "Slow your breathing: breathe in for 4 counts and out for 6 to 8 counts.",
+        "Ground yourself with 5-4-3-2-1: 5 things you see, 4 you can touch, 3 you hear, 2 you smell, 1 you taste.",
+        "Let the sensations rise and fall without fighting them, like a wave.",
+        "Afterwards, rest, drink water, and be gentle with yourself."
+      ],
+      "when_to_seek_help": "If panic attacks are frequent, or you start avoiding places for fear of having one, talk to a counselor or doctor. Panic disorder is very treatable. Seek emergency care if you have chest pain and are unsure of the cause."
+    },
+    {
+      "id": "body-scan",
+      "title": "Mindful Body Scan",
+      "topic": "mindfulness",
+      "emotions": ["stress", "anxiety"],
+      "duration_minutes": 10,
+      "summary": "A body scan builds awareness of physical sensations and helps release tension stored in the body. It is useful before sleep or after a stressful day.",
+      "steps": [
+        "Lie down or sit comfortably and close your eyes if that feels okay.",
+        "Take three slow breaths.",
+        "Bring attention to your toes, then slowly move up through your feet, legs, hips, stomach, chest, hands, arms, shoulders, neck and face.",
+        "At each area, notice any sensation (warmth, tightness, tingling) without trying to change it.",
+        "If your mind wanders, gently bring it back to the body part you were on.",
+        "Finish by noticing your whole body breathing."
+      ],
+      "when_to_seek_help": ""
+    },
+    {
+      "id": "perfectionism",
+      "title": "Loosening Perfectionism",
+      "topic": "thoughts",
+      "emotions": ["anxiety", "shame", "stress"],
+      "duration_minutes": 15,
+      "summary": "Perfectionism sets standards so high they can never be met, which leads to procrastination, burnout and harsh self-criticism. Aiming for excellence is healthy; demanding flawlessness is not.",
+      "steps": [
+        "Define 'good enough' for the task before you start, such as 'a complete first draft'.",
+        "Set a time limit for the task and stop when it ends.",
+        "Practice a small, deliberate imperfection, like sending an email without rereading it three times.",
+        "Notice all-or-nothing thoughts ('If it isn't perfect, it's worthless') and write a more balanced version.",
+        "Celebrate effort and progress, not only outcomes."
+      ],
+      "when_to_seek_help": "If perfectionism causes constant distress or keeps you from finishing work, a counselor can help with CBT approaches designed for it."
+    },
+    {
+      "id": "procrastination",
+      "title": "Breaking the Procrastination Cycle",
+      "topic": "stress",
+      "emotions": ["stress", "shame", "anxiety"],
+      "duration_minutes": 5,
+      "summary": "Procrastination is usually about avoiding uncomfortable feelings like boredom, anxiety or self-doubt, not about laziness. Shaming yourself tends to make it worse.",
+      "steps": [
+        "Shrink the task: pick a first step so small it feels almost silly, such as opening the document.",
+        "Use the 5-minute rule: commit to only 5 minutes. Often you will keep going.",
+        "Remove one distraction, like putting your phone in another room.",
+        "Name the feeling you are avoiding and acknowledge it kindly.",
+        "Forgive past procrastination. Self-forgiveness reduces future procrastination."
+      ],
+      "when_to_seek_help": "Ongoing trouble starting or finishing tasks can be linked to ADHD, depression or anxiety. Campus disability or counseling services can help."
+    },
+    {
+      "id": "imposter-syndrome",
+      "title": "Imposter Syndrome",
+      "topic": "shame",
+      "emotions": ["shame", "anxiety"],
+      "duration_minutes": 10,
+      "summary": "Imposter syndrome is the persistent feeling that you are not as capable as others think and will be 'found out', despite evidence of your abilities. It is very common among students and high achievers.",
+      "steps": [
+        "Write down specific evidence of your achievements and the effort behind them.",
+        "Notice when you credit success to luck and failure to yourself. Try reversing that once.",
+        "Talk about it. You will often find classmates or colleagues feel the same way.",
+        "Reframe 'I don't know this yet' as a normal part of learning, not proof you don't belong.",
+        "Accept compliments with a simple 'thank you' instead of deflecting."
+      ],
+      "when_to_seek_help": ""
+    },
+    {
+      "id": "homesickness",
+      "title": "Coping with Homesickness",
+      "topic": "sadness",
+      "emotions": ["sadness"],
+      "duration_minutes": 10,
+      "summary": "Homesickness is a normal reaction to leaving familiar people and places, especially when starting college or moving. It usually eases as new routines and relationships form.",
+      "steps": [
+        "Schedule regular, but not constant, contact with people at home.",
+        "Bring familiar comforts into your new space, like photos, a favorite blanket or a home recipe.",
+        "Build a routine with regular meals, sleep and one enjoyable activity a day.",
+        "Say yes to one social invitation or club meeting each week.",
+        "Explore your new area so it starts to feel like your own place."
+      ],
+      "when_to_seek_help": "If homesickness comes with persistent low mood, isolation, or difficulty attending classes for more than a few weeks, reach out to campus counseling."
+    },
+    {
+      "id": "social-connection",
+      "title": "Building Social Connection",
+      "topic": "sadness",
+      "emotions": ["sadness"],
+      "duration_minutes": 5,
+      "summary": "Feeling connected to others is one of the strongest protectors of wellbeing. Connection can be built in small, low-pressure steps.",
+      "steps": [
+        "Reach out to one person today with a simple message: 'Thinking of you, how are you?'",
+        "Join a group built around an activity, like a club, sports team, study group or volunteering.",
+        "Repeat contact. Seeing the same people regularly is how friendships form.",
+        "Ask open questions and listen. People feel closer to those who are curious about them.",
+        "Be patient. Close friendships often take months to develop."
+      ],
+      "when_to_seek_help": ""
+    },
+    {
+      "id": "relationship-conflict",
+      "title": "Handling Conflict in Relationships",
+      "topic": "anger",
+      "emotions": ["anger", "sadness"],
+      "duration_minutes": 15,
+      "summary": "Conflict is a normal part of close relationships with friends, roommates, partners and family. How it is handled matters more than whether it happens.",
+      "steps": [
+        "Wait until you are calm enough to talk. Take a break if either person is flooded with emotion.",
+        "Start gently: 'I'd like to talk about something that's been bothering me.'",
+        "Use 'I feel... when... because... I would like...' statements.",
+        "Listen to understand, and repeat back what you heard before responding.",
+        "Look for a compromise or a small next step rather than winning."
+      ],
+      "when_to_seek_help": "If a relationship involves fear, control, threats or violence, that is not ordinary conflict. Contact the National Domestic Violence Hotline at 1-800-799-7233 (US) or text START to 88788."
+    },
+    {
+      "id": "daily-movement",
+      "title": "Movement for Mood",
+      "topic": "lifestyle",
+      "emotions": ["sadness", "stress", "anxiety", "anger"],
+      "duration_minutes": 20,
+      "summary": "Physical activity reduces stress hormones and improves mood, sleep and concentration. Even short bouts of movement help.",
+      "steps": [
+        "Start with a 10-minute walk, ideally outdoors.",
+        "Choose movement you enjoy, like dancing, cycling, yoga or a sport.",
+        "Pair it with something else, such as calling a friend while walking or a podcast.",
+        "Notice how you feel before and after to build motivation.",
+        "Aim for consistency over intensity."
+      ],
+      "when_to_seek_help": "Check with a healthcare provider before starting intense exercise if you have a health condition."
+    },
+    {
+      "id": "digital-wellbeing",
+      "title": "Digital Wellbeing",
+      "topic": "lifestyle",
+      "emotions": ["anxiety", "sadness", "stress"],
+      "duration_minutes": 5,
+      "summary": "Heavy social media use and constant notifications can increase comparison, anxiety and poor sleep for some people. Small changes help you use technology on your own terms.",
+      "steps": [
+        "Turn off non-essential notifications.",
+        "Keep your phone out of the bedroom, or at least out of reach, at night.",
+        "Notice which accounts leave you feeling worse and mute or unfollow them.",
+        "Set a daily time limit for the apps you use most.",
+        "Replace one scrolling session a day with an offline activity."
+      ],
+      "when_to_seek_help": ""
+    },
+    {
+      "id": "gratitude-practice",
+      "title": "Three Good Things",
+      "topic": "reflection",
+      "emotions": ["joy", "sadness", "neutral"],
+      "duration_minutes": 5,
+      "summary": "Regularly noticing what goes well can gradually shift attention toward positive experiences and improve wellbeing.",
+      "steps": [
+        "Each evening, write down three things that went well today.",
+        "Be specific about what happened.",
+        "For each one, write why it happened or what part you played.",
+        "Re-read your list at the end of the week."
+      ],
+      "when_to_seek_help": ""
+    },
+    {
+      "id": "affirmations",
+      "title": "Kind Statements to Yourself",
+      "topic": "shame",
+      "emotions": ["shame", "sadness", "anxiety"],
+      "duration_minutes": 2,
+      "summary": "Short, believable, kind statements can soften self-criticism. They work best when they feel realistic rather than forced.",
+      "steps": [
+        "Pick one statement that feels true enough to you, for example: 'I am doing the best I can with what I have right now.'",
+        "Other options: 'My worth is not measured by my productivity.' 'It's okay to ask for help.' 'Feelings come and go.' 'I have gotten through hard days before.'",
+        "Say it slowly, out loud or in your head, when the inner critic shows up.",
+        "Write it somewhere you will see it."
+      ],
+      "when_to_seek_help": ""
+    }
+  ]
+}

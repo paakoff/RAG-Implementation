@@ -1,0 +1,19 @@
+# Core
+openai>=1.40
+numpy>=1.26
+scikit-learn>=1.4
+pandas>=2.0
+
+# Interfaces
+streamlit>=1.32
+fastapi>=0.110
+uvicorn>=0.29
+pydantic>=2.0
+
+# Testing
+pytest>=8.0
+
+# Optional (uncomment to enable)
+# faiss-cpu>=1.8            # faster vector search
+# sentence-transformers>=3.0 # dense semantic embeddings (EMBEDDING_BACKEND=sentence-transformers)
+# pypdf>=4.0                 # load PDF documents into the knowledge base
